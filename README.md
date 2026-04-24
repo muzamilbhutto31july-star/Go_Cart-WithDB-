@@ -1,11 +1,14 @@
 # Go_Cart-WithDB-
 
 🧭 Receiver Setup Guide — How to Run the Project
+
 🔹 1. Install the Required Software
+
 Step 1 — Install Visual Studio
 Go to: https://visualstudio.microsoft.com/downloads/
 Download Visual Studio Community (Free).
 During installation, select these workloads:
+
 ✅ .NET desktop development
 After installation, open Visual Studio once to complete setup.
 
