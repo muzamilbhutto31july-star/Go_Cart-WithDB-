@@ -70,6 +70,7 @@ Update your code:
 
 Save and rebuild the solution (Ctrl + Shift + B).
 
+
 🔹 5. Run the Project
 
 In Visual Studio → Click Start ▶️
@@ -87,8 +88,13 @@ Dashboard opens
 You can Add / Update / Delete categories and products
 
 🔹 6. Common Troubleshooting
+
 Problem	Solution
+
 ❌ “Connection property not initialized”	Database connection string incorrect — recheck your SQL Server name
+
 ❌ “Login failed for user”	Run Visual Studio as Administrator or use correct SQL authentication
+
 ❌ Missing tables or data	Re-run or restore the database .bak / .sql file
+
 ❌ Index out of range (DataGridView)	Click directly on rows (not blank space) before updating/deleting
